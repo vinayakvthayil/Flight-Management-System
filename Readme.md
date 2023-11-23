@@ -1,5 +1,5 @@
-This program contains contains Java based Airline Flight Management System.
-Using following technologies in this program:
+## Flight Management System 
+Used for Booking and Managing the Flight
   1. Java
   2. Java Swing
   3. Java Web
